@@ -1,2 +1,6 @@
 hello this is yash
+<<<<<<< HEAD
 this will be the second line
+=======
+the third line of this code is this
+>>>>>>> c61874aa1f3644239935d55dd17ec862d490838f
